@@ -1,2 +1,3 @@
-# Error No.720 Resolver
-This program can solve the error of error No.720 (network protocol failure).
+简体中文 | [English][/]
+# 错误号720解决程序
+本程序能错误号720（网络协议故障）的错误。
